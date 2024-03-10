@@ -1,0 +1,4 @@
+transformers
+tensorflow
+tf-keras
+git+https://github.com/huggingface/transformers.git
